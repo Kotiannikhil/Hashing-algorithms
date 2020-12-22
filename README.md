@@ -1,4 +1,4 @@
-Nikhil Kotian.
+# Hashing-algorithms
 
 For the description of the project, kindly refer to project1.pdf.
 
