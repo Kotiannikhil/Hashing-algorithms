@@ -14,7 +14,7 @@ There are 3 text files, one for each algorithm's output (Note: These text files 
 2. cuckoo.txt for the cuckoo hash table 
 3. dleft.txt for the dleft table 
 
-There is one readme.txt file
+There is one README.md file
 
 To run the programs:
 1. To compile the java program,write "javac <file_name>.java". For instance, "javac multihashing.java" for the multihashing program.
